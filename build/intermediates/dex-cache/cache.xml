@@ -30,6 +30,20 @@
         <dex dex="C:\Users\Kevin\AndroidStudioProjects\hello\app\build\intermediates\pre-dexed\debug\classes-67d1b49ca1e43ba8be02f80a3fe95c3231b41a6a.jar" />
     </item>
     <item
+        jar="C:\Users\Kevin\Documents\helloandroid4\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Kevin\Documents\helloandroid4\app\build\intermediates\pre-dexed\debug\classes-ade832d8c0881b506fc91db24cef256dc73c5208.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kevin\Documents\helloandroid4\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Kevin\Documents\helloandroid4\app\build\intermediates\pre-dexed\debug\classes-1f90ae4eac8559bf91a2e30b352b21d8818b56f4.jar" />
+    </item>
+    <item
         jar="C:\Users\Kevin\Documents\helloandroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -42,6 +56,13 @@
         revision="21.1.2"
         sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
         <dex dex="C:\Users\Kevin\Documents\helloandroid\app\build\intermediates\pre-dexed\debug\classes-ca3c427417d3eec162e202140eee54a0b0556573.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kevin\Documents\helloandroid4\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Kevin\Documents\helloandroid4\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-002f4718fc2e6052b02bb6815eaf62247f3e1277.jar" />
     </item>
     <item
         jar="C:\Users\Kevin\AndroidStudioProjects\hello\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
